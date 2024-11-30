@@ -29,8 +29,8 @@ Follow these steps to set up the Sahayta Hub on your local machine.
 ### Clone the repository
 
 ```
-git clone https://github.com/somnath-choudhury/sahayta-hub.git
-cd sahayta-hub
+git clone https://github.com/somnath-choudhury/sahaayta-hub.git
+cd sahaayta-hub
 ```
 
 ### Install Dependencies
