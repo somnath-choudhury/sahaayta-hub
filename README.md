@@ -72,7 +72,7 @@ Once the application is running, you can:
 
 
 ## Contact
-For questions, support aur contribution, please reach out to me:
+For questions, support or contribution, please reach out to me:
 
 * Email: [choudhurysomnath2000@gmail.com](mailto:choudhurysomnath2000@gmail.com)
 
