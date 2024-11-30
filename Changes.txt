@@ -1,0 +1,9 @@
+1. Under api.ts account.createEmailSession() was changed to account.createEmailPasswordSession()
+2. AuthContext file was changed for INITIAL_STATE and checkAuthUser.
+3. isPending is changed to isLoading in SignUpForm.tsx.
+4. createEmailPasswordSession is changed to createEmailSession in api.ts.
+
+Now changes.
+
+Root Layout is changed. GPT
+App.tsx is changed to follow to navigate to Landing page when first start the app
